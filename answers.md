@@ -1,4 +1,3 @@
-theme: dinky
 
 ## Exercise1
 
